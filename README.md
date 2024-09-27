@@ -2,7 +2,7 @@
 This project is a simple Speech-to-Text converter that captures speech input from the microphone and converts it to text using Python's SpeechRecognition library. The project also provides a simple web interface using Flask where users can click a button to start speech recognition and see the text results on the page.
 
 ## Table of Contents
-- 1. [ Technologies Used ](#Technologies-Used)
+  1. [ Technologies Used ](#Technologies-Used)
   2. [ Prerequisites ](#Prerequisites)
   3. [ Installation ](#Installation)
   4. [ Usage ](#Usage)
