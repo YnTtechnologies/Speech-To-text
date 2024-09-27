@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 - pip package manager
 
 ## Installation
-- 1. Clone the Repository:
+  1. Clone the Repository:
   ```
   git clone https://github.com/your-username/speech-to-text.git
   cd speech-to-text
@@ -39,15 +39,15 @@ Before you begin, ensure you have met the following requirements:
   ```
 
 ## Usage
-- ### Running the Project Locally
--  1. Navigate to http://127.0.0.1:5000/ in your browser.
+  ### Running the Project Locally
+   1. Navigate to http://127.0.0.1:5000/ in your browser.
    2. You'll see a web page with a "Click to Speak" button.
    3. Click the button, and the microphone will start recording your voice.
    4. After a few seconds of recording, the spoken words will be converted to text and displayed on the page.
 
 ## API Endpoint
 You can also use the API directly by sending a POST request to:
-- ```
+  ```
   POST /speech-to-text
   
   ```
